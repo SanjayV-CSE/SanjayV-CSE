@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm SANJAY</h1>
 <h3 align="center">A passionate web developer from India</h3>
-![Working-Image](https://pin.it/344s7zWA8)
+<img align="right" src="https://komarev.com/ghpvc/?username=sanjayv-cse&label=Profile%20views&color=0e75b6&style=flat">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjayv-cse&label=Profile%20views&color=0e75b6&style=flat" alt="sanjayv-cse" /> </p>
 
 - 🌱 I’m currently learning **JS frameworks**
