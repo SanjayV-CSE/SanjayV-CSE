@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Hareesh
 
 Software Engineer @ Zoho Corporation
-<img align="right" width="370" height="290" src="https://tenor.com/view/designer-developer-gif-18967377">
+<img align="right" width="370" height="290" src="https://images.app.goo.gl/jbYc2TM1BKFKFykU9">
 - 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on ML/AI
