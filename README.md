@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Hareesh
 
 Software Engineer @ Zoho Corporation
-<img width='50' height='50' align='right' src="https://pin.it/54zVoXBky">
+![GIFF](https://pin.it/54zVoXBky)
 - 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on ML/AI
