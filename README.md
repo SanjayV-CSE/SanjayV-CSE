@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjayv-cse&label=Profile%20views&color=0e75b6&style=flat" alt="sanjayv-cse" /> </p>
 
+<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/0c/a8/96/0ca8968070257635299b1fe038384838.gif"/>
 - 🌱 I’m currently learning **JS frameworks**
 
 - 📫 How to reach me **sanjay.v2021cseb@sece.ac.in**
